@@ -1,0 +1,20 @@
+conceptos 
+
+* Variables : son la forma de almacenar un valor que se podra usar mas adelante. 
+ 
+* Strings: son palaras o una cadena de letras que conforman palabras y se definen entre comillas dobles o sencillas. 
+tambien podrian ser numeros que estan entre comillas y se leeran como un string  
+
+* Booleans: provienen de la logica de boole y son definidos como true o false 
+
+* Undefined:es un valor que no existe o no esta definido 
+
+* Null: un elemento que existe pero no tiene ningun valor asinado determinado todavia, pero que se espera
+que vaya a tener un valor definido en algun momento.
+
+* Operadores: son simbolos que hemos utilizado anteriormente en matematicas y que nos permiten hacer comparaciones 
+
+* `==` vs. `===`: es comparar un igual a y un estrictamente igual . 
+esto lo copie de internet
+//El operador de comparacion ( == ) comprueba si sus dos operandos son iguales y devuelve un resultado booleano.
+ A diferencia del operador de igualdad estricta ( === ), es que este convierte y compara operandos que son de diferentes tipos.
